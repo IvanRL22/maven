@@ -11,11 +11,28 @@
             "id": "56086fde71bc4e59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General course information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d94ddcf1107254a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 2 - Getting started/1. System requirements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Section 2 - Getting started/1. System requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Section 2 - Getting started/1. System requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Section 2 - Getting started/1. System requirements.md"
+              }
             }
           }
         ]
@@ -138,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56086fde71bc4e59",
-  "lastOpenFiles": []
+  "active": "9d94ddcf1107254a",
+  "lastOpenFiles": [
+    "General course information.md",
+    "Section 1 - Apache Maven Introduction/1. Why use Apache Maven.md"
+  ]
 }
